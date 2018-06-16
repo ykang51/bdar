@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## 巨量資料分析-使用 R 語言 (Big Data Analytics with R) 
 
-You can use the [editor on GitHub](https://github.com/ykang51/bdar/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+歡迎來到『巨量資料分析-使用 R 語言』課程內容網站。
+這是[中山大學資訊管理學系](http://epage.mis.nsysu.edu.tw/bin/home.php)[康藝晃老師](https://ykang.mis.nsysu.edu.tw/)
+的 MOOCs 課程『巨量資料分析-使用 R 語言』課程 Video。各課程內容將在陸續張貼在 Youtube，而目前課程持續更新中，其中包括 11 個 Units:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Unit 1.  Introduction to R and RStudio
+### Unit 2.  Data Management and Analysis with R
+### Unit 3 - Fundamentals of Data Analytics
+### Unit 4 - Distributed File Systems & MapReduce Programming Model
+### Unit 5 - Introduction to Statistical Learning
+### Unit 6 - Advanced Topics in R High Performance Computing
+### Unit 7 - In-Database Analytics using R and MADlib
+### Unit 8 - Introduction to Network Data Analysis with R
+### Unit 9 - Text Analytics with R
+### Unit 10 - Fast Scalable Data Analytics using R, H2O, and Spark
+### Unit 11 - Introduction to Deep Learning with R, Keras, and MXNet
 
-### Markdown
+你可以在 Youtube 上觀看最近更新的[課程內容中文講解](https://www.youtube.com/playlist?list=PL6mE6IBXHgi1TaqjPvs7KfSUVT8spZkqp&disable_polymer=true)。課程內容英文講解將在近期上線。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ykang51/bdar/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 聯絡我們
+課程與網站所有內容皆免費提供給個人教學用，請勿使用在任何商業用途。
+內容若有錯誤、侵權、或其它問題，請[聯絡我們](mailto:yihuangk@gmail.com) 。
