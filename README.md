@@ -16,7 +16,7 @@
 * Unit 10. Fast Scalable Data Analytics using R, H2O, and Spark
 * Unit 11. Introduction to Deep Learning with R, Keras, and MXNet
 
-你可以在 Youtube 上觀看最近更新的[課程內容中文講解](https://www.youtube.com/playlist?list=PL6mE6IBXHgi1TaqjPvs7KfSUVT8spZkqp&disable_polymer=true)。課程內容英文講解將在近期上線。
+您可以在 Youtube 上觀看最近更新的[課程內容中文講解](https://www.youtube.com/playlist?list=PL6mE6IBXHgi1TaqjPvs7KfSUVT8spZkqp&disable_polymer=true)。課程內容英文講解將在近期上線。
 
 
 ## 聯絡我們
